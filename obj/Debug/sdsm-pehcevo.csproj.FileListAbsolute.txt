@@ -1,0 +1,6 @@
+c:\users\pesanski\documents\visual studio 2010\Projects\sdsm-pehcevo\sdsm-pehcevo\bin\sdsm-pehcevo.dll
+c:\users\pesanski\documents\visual studio 2010\Projects\sdsm-pehcevo\sdsm-pehcevo\bin\sdsm-pehcevo.pdb
+c:\users\pesanski\documents\visual studio 2010\Projects\sdsm-pehcevo\sdsm-pehcevo\bin\EO.Web.dll
+c:\users\pesanski\documents\visual studio 2010\Projects\sdsm-pehcevo\sdsm-pehcevo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pesanski\documents\visual studio 2010\Projects\sdsm-pehcevo\sdsm-pehcevo\obj\Debug\sdsm-pehcevo.dll
+c:\users\pesanski\documents\visual studio 2010\Projects\sdsm-pehcevo\sdsm-pehcevo\obj\Debug\sdsm-pehcevo.pdb
