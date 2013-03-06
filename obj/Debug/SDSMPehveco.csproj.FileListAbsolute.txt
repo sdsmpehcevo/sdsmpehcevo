@@ -1,6 +1,0 @@
-C:\Users\Pesanski\Documents\Visual Studio 2010\Projects\SdsmPehcevo\SDSMPehveco\bin\SDSMPehveco.dll
-C:\Users\Pesanski\Documents\Visual Studio 2010\Projects\SdsmPehcevo\SDSMPehveco\bin\SDSMPehveco.pdb
-C:\Users\Pesanski\Documents\Visual Studio 2010\Projects\SdsmPehcevo\SDSMPehveco\bin\EO.Web.dll
-C:\Users\Pesanski\Documents\Visual Studio 2010\Projects\SdsmPehcevo\SDSMPehveco\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Pesanski\Documents\Visual Studio 2010\Projects\SdsmPehcevo\SDSMPehveco\obj\Debug\SDSMPehveco.dll
-C:\Users\Pesanski\Documents\Visual Studio 2010\Projects\SdsmPehcevo\SDSMPehveco\obj\Debug\SDSMPehveco.pdb
