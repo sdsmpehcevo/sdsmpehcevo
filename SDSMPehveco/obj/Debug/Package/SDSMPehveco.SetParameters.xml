@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/SDSMPehveco_deploy" />
+  <setParameter name="myConnection-Web.config Connection String" value="Server=4b7a0fd3-8a64-41e5-a98a-a179012c548c.sqlserver.sequelizer.com;Database=db4b7a0fd38a6441e5a98aa179012c548c;User ID=rnglwgnywmckjolj;Password=SEAJaadgSveJceQwegcvYh2qoVC8WasZjC2WPYBQBhREj56XVQuqEeDKMkunEdsR;" />
+</parameters>

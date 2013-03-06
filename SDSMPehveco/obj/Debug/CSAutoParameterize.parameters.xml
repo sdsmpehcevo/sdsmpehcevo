@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="myConnection-Web.config Connection String" description="myConnection Connection String used in web.config by the application to access the database." defaultvalue="Server=4b7a0fd3-8a64-41e5-a98a-a179012c548c.sqlserver.sequelizer.com;Database=db4b7a0fd38a6441e5a98aa179012c548c;User ID=rnglwgnywmckjolj;Password=SEAJaadgSveJceQwegcvYh2qoVC8WasZjC2WPYBQBhREj56XVQuqEeDKMkunEdsR;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Pesanski\\Documents\\Visual\ Studio\ 2010\\Projects\\SdsmPehcevo\\SDSMPehveco\\obj\\Debug\\Package\\PackageTmp\\web\.config$" match="/configuration/connectionStrings/add[@name='myConnection']/@connectionString" />
+  </parameter>
+</parameters>
