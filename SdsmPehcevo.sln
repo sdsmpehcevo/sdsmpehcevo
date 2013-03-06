@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SdsmPehcevo", "..\..\WebSites\SdsmPehcevo\", "{03F8208B-3C23-4CC2-83CB-B3B6F07E1748}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/SdsmPehcevo"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\SdsmPehcevo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SdsmPehcevo\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SdsmPehcevo"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\SdsmPehcevo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SdsmPehcevo\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61878"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDSMPehveco", "SDSMPehveco\SDSMPehveco.csproj", "{86F47999-FBF2-4A8C-99ED-603930BEF4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F8208B-3C23-4CC2-83CB-B3B6F07E1748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F8208B-3C23-4CC2-83CB-B3B6F07E1748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F8208B-3C23-4CC2-83CB-B3B6F07E1748}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F8208B-3C23-4CC2-83CB-B3B6F07E1748}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{86F47999-FBF2-4A8C-99ED-603930BEF4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F47999-FBF2-4A8C-99ED-603930BEF4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F47999-FBF2-4A8C-99ED-603930BEF4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F47999-FBF2-4A8C-99ED-603930BEF4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
