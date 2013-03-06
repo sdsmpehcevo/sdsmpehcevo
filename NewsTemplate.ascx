@@ -1,5 +1,5 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="NewsTemplate.ascx.cs"
-    Inherits="NewsTemplate" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true"
+    Inherits="NewsTemplate" Codebehind="NewsTemplate.ascx.cs" %>
 <div id="newsMain" style="height: 100px; width: 500px; padding:10px;">
     <div id="newsImage" style="float:left; padding:0 10px 0 0;">
         <asp:ImageButton ID="imgImage" runat="server" Height="100px" Width="145px" BorderWidth="1px" BorderColor="White" />

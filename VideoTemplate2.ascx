@@ -1,5 +1,5 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="VideoTemplate2.ascx.cs"
-    Inherits="VideoTemplate2" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true"
+    Inherits="VideoTemplate2" Codebehind="VideoTemplate2.ascx.cs" %>
 <div class="video">    
     <br />
     <div id="video" runat="server">

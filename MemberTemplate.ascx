@@ -1,5 +1,5 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="MemberTemplate.ascx.cs"
-    Inherits="MemberTemplate" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true"
+    Inherits="MemberTemplate" Codebehind="MemberTemplate.ascx.cs" %>
 <div id="member-template" style="height: 200px; width: 500px;">
     <asp:Image ID="MemberImage" runat="server" Height="200px" Width="150px" 
         BorderColor="White" BorderStyle="Solid" BorderWidth="1px" />

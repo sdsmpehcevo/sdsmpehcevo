@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="News.aspx.cs" Inherits="News" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="News" Codebehind="News.aspx.cs" %>
 
 <%@ Register Src="~/VideoTemplate2.ascx" TagName="VideoTemplate2" TagPrefix="uc4" %>
 <%@ Register Src="~/ImageTemplate.ascx" TagName="ImageTemplate" TagPrefix="uc5" %>

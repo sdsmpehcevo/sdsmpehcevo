@@ -1,5 +1,5 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="ImageTemplate.ascx.cs"
-    Inherits="ImageTemplate" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true"
+    Inherits="ImageTemplate" Codebehind="ImageTemplate.ascx.cs" %>
 <div class="imageNews">
     <br />
     <div class="imageRow">

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Video.aspx.cs" Inherits="Video" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="Video" Codebehind="Video.aspx.cs" %>
 
 <%@ Register Src="~/VideoTemplate.ascx" TagName="VideoTemplate" TagPrefix="uc2" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

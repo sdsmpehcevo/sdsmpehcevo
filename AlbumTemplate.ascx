@@ -1,5 +1,5 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="AlbumTemplate.ascx.cs"
-    Inherits="AlbumTemplate" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true"
+    Inherits="AlbumTemplate" Codebehind="AlbumTemplate.ascx.cs" %>
 <div class="albumImages">
     <asp:Label ID="lblAlbumTitle" runat="server" Text=""></asp:Label>
     <br />

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Images.aspx.cs" Inherits="Images" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="Images" Codebehind="Images.aspx.cs" %>
 
 <%@ Register Src="~/AlbumTemplate.ascx" TagName="AlbumTemplate" TagPrefix="uc6" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

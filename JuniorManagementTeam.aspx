@@ -1,5 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="JuniorManagementTeam.aspx.cs"
-    Inherits="JuniorManagementTeam" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true"
+    Inherits="JuniorManagementTeam" Codebehind="JuniorManagementTeam.aspx.cs" %>
 
 <%@ Register Src="MemberTemplate.ascx" TagName="MemberTemplate" TagPrefix="uc1" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

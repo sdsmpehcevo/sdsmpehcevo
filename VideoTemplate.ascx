@@ -1,5 +1,5 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="VideoTemplate.ascx.cs"
-    Inherits="VideoTemplate" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true"
+    Inherits="VideoTemplate" Codebehind="VideoTemplate.ascx.cs" %>
 <div class="video">
     <h2>
         <asp:Label ID="LabelTitle" runat="server"></asp:Label></h2>
