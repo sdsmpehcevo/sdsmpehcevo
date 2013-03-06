@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="Contact" Codebehind="Contact.aspx.cs" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="Contact" CodeBehind="Contact.aspx.cs" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -88,9 +88,6 @@
                         <br />
                         <br />
                     </div>
-                    <div id="error-label">
-                        <asp:Label ID="lblError" runat="server"></asp:Label>
-                    </div>
                     <div id="contact-box">
                         <h3>
                             СОЦИЈАЛДЕМОКРАТСКИ СОЈУЗ НА MАКЕДОНИЈА - OО Пехчево</h3>
@@ -142,9 +139,12 @@
                     </div>
                 </div>
             </div>
+            <div id="error-label">
+                <asp:Label ID="lblError" runat="server"></asp:Label>
+            </div>
             <div class="reklami">
                 <img src="Images/reklami.jpg" alt="СДСМ" />
-            </div>
+            </div>            
             <div class="footerMenu">
                 <ul>
                     <li id="topRightMenu2_Repeater1_ctl00_liHome"><a href="Home.aspx" id="topRightMenu2_Repeater1_ctl00_HLHome">

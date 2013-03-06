@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EO.Web, Version=10.0.47.2, Culture=neutral, PublicKeyToken=e92353a6bf73fffc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\EO.Web.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -160,6 +164,13 @@
       <DependentUpon>Program.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SiteMap.aspx.cs">
+      <DependentUpon>SiteMap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteMap.aspx.designer.cs">
+      <DependentUpon>SiteMap.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Video.aspx.cs">
       <DependentUpon>Video.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -275,6 +286,7 @@
     <Content Include="Scripts\themes\light\bullets.png" />
     <Content Include="Scripts\themes\light\light.css" />
     <Content Include="Scripts\themes\light\loading.gif" />
+    <Content Include="SiteMap.aspx" />
     <Content Include="Styles\lightbox-screen.css" />
     <Content Include="Styles\lightbox.css" />
     <Content Include="Styles\login-box.css" />

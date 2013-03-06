@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="BecomeMember" Codebehind="BecomeMember.aspx.cs" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="BecomeMember" CodeBehind="BecomeMember.aspx.cs" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -88,9 +88,6 @@
                     <div id="title">
                         <h2>
                             Станете член на СДСМ</h2>
-                    </div>
-                    <div id="error-label">
-                        <asp:Label ID="lblError" runat="server"></asp:Label>
                     </div>
                     <div id="become-member-box">
                         <br />
@@ -184,6 +181,9 @@
                         </span>
                     </div>
                 </div>
+            </div>
+            <div id="error-label">
+                <asp:Label ID="lblError" runat="server"></asp:Label>
             </div>
             <div class="reklami">
                 <img src="Images/reklami.jpg" alt="СДСМ" />
