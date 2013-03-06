@@ -41,7 +41,7 @@ public partial class Home : System.Web.UI.Page
                     strLength = 120;
                 }
 
-                imgImage.ImageUrl = row.Row["title_image_url"].ToString();
+                imgImage.ImageUrl = row.Row["title_image_url"].ToString().Remove(0,2);
                 imgImage.PostBackUrl = "News.aspx?id=" + row.Row["news_id"].ToString();
                 lblDate.Text = row.Row["date"].ToString();
                 lnkTitle.Text = row.Row["title"].ToString();
