@@ -87,7 +87,7 @@
                         <br />
                     </div>
                     <div id="download" style="padding-left: 20px;">
-                        <a href="https://dl-web.dropbox.com/get/izborna_programa_2013_sdsmPehcevo.pdf?w=AABZ30jNa2dp19yPPZjbc7_ykQgrconglEcV-WWVsBVn4Q" style="color: #ebebeb;">
+                        <a href="https://dl.dropbox.com/u/51783378/izborna_programa_2013_sdsmPehcevo.pdf" style="color: #ebebeb;">
                             <asp:Image ID="imgDownload" runat="server" Height="25px" ImageUrl="~/Images/pdf_download.png"
                                 Width="25px" />
                             Преземете ја програмата во .pdf формат (десен клик Save link as...)</a>
