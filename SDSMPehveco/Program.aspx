@@ -87,7 +87,7 @@
                         <br />
                     </div>
                     <div id="download" style="padding-left: 20px;">
-                        <a href="Program/PROGRAMA_PDF_Web.pdf" style="color: #ebebeb;">
+                        <a href="https://dl-web.dropbox.com/get/izborna_programa_2013_sdsmPehcevo.pdf?w=AABZ30jNa2dp19yPPZjbc7_ykQgrconglEcV-WWVsBVn4Q" style="color: #ebebeb;">
                             <asp:Image ID="imgDownload" runat="server" Height="25px" ImageUrl="~/Images/pdf_download.png"
                                 Width="25px" />
                             Преземете ја програмата во .pdf формат (десен клик Save link as...)</a>
@@ -95,7 +95,7 @@
                     <br />
                     <div style="padding-left: 20px;">
                         <span style="padding-bottom: 20px; height: 20px; width: 100%;"></span>
-                        <iframe src="http://issuu.com/sdsmpehcevo/docs/programa_pdf_web?mode=embed&layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Flight%2Flayout.xml&showFlipBtn=true"
+                        <iframe src="http://issuu.com/sdsmpehcevo/docs/izgorna_programa_2013?mode=window&viewMode=doublePage&showFlipBtn=true"
                             width="670" height="520"></iframe>
                     </div>
                     <div id="error-label">

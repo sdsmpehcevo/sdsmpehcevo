@@ -69,11 +69,11 @@
     position: absolute;
 }
 .galleria-info-text {
-    background-color:transparent;
+    background-color:Gray;    
     padding: 12px;
     border: 1px solid #fff;
     display: none;
-    /* IE7 */ zoom:1;
+    /* IE7 */ zoom:1;    
 }
 .galleria-info-title {
     font: bold 12px/1.1 arial,sans-serif;

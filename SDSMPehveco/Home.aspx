@@ -84,9 +84,8 @@
                     </div>
                 </div>
                 <div id="content-right">
-                    <div id="galleria">
-                        <img src="Images/Slider/gore1.jpg" data-title="СДСМ" data-description="" />
-                        <img src="Images/Slider/gore0.jpg" />
+                    <div id="galleria">                        
+                        <img src="Images/Slider/slider1.jpg" data-title="Драган Тренчовски" data-description="Кандидат за градоначалник на Општина Пехчево" />
                         <img src="Images/Slider/gore2.jpg" />
                         <img src="Images/Slider/gore3.jpg" />
                         <img src="Images/Slider/gore4.jpg" />

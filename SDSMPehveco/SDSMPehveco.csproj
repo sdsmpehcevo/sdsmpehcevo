@@ -214,18 +214,12 @@
     <Content Include="galleria.classic.min.js" />
     <Content Include="Home.aspx" />
     <Content Include="Images.aspx" />
-    <Content Include="Images\Albums\11\2.jpg" />
-    <Content Include="Images\Albums\11\3.jpg" />
-    <Content Include="Images\Albums\11\4.jpg" />
-    <Content Include="Images\Albums\11\5.jpg" />
-    <Content Include="Images\Albums\11\6.jpg" />
-    <Content Include="Images\Albums\11\7.jpg" />
-    <Content Include="Images\Albums\11\8.jpg" />
     <Content Include="Images\back_sojuz6.jpg" />
     <Content Include="Images\close.png" />
     <Content Include="Images\header2.jpg" />
     <Content Include="Images\loading.gif" />
     <Content Include="Images\login-box-backg.png" />
+    <Content Include="Images\logo-d.jpg" />
     <Content Include="Images\logo.jpg" />
     <Content Include="Images\Members\222704_1048760669662_5329_n.jpg" />
     <Content Include="Images\Members\7.jpg" />
@@ -243,7 +237,6 @@
     <Content Include="Images\Members\Penguins.jpg" />
     <Content Include="Images\Members\Tulips.jpg" />
     <Content Include="Images\navbutt.jpg" />
-    <Content Include="Images\News\14\1.jpg" />
     <Content Include="Images\next.png" />
     <Content Include="Images\pdf_download.png" />
     <Content Include="Images\prev.png" />
@@ -258,6 +251,7 @@
     <Content Include="Images\Slider\gore3.jpg" />
     <Content Include="Images\Slider\gore4.jpg" />
     <Content Include="Images\Slider\gore9.jpg" />
+    <Content Include="Images\Slider\slider1.jpg" />
     <Content Include="ImageTemplate.ascx" />
     <Content Include="JuniorManagementTeam.aspx" />
     <Content Include="ManagementTeam.aspx" />
@@ -315,9 +309,10 @@
   <ItemGroup>
     <Content Include="eo_web.ashx" />
     <Content Include="packages.config" />
-    <None Include="Program\PROGRAMA_PDF_Web.pdf" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Images\Albums\" />
+    <Folder Include="Images\News\" />
     <Folder Include="Images\Temp\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
